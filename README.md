@@ -1,7 +1,7 @@
 
 From https://www.artima.com/forums/flat.jsp?forum=106&thread=204677
 
-Also, see [main.cpp](main.cpp) as an example of why 100% line coverage is an incufficient metric.
+Also, see [main.cpp](main.cpp) as an example of why 100% line coverage is an insufficient metric.
 
 # Testivus On Test Coverage
 
